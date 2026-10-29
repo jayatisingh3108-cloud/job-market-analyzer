@@ -25,5 +25,10 @@ Python (pandas), MySQL, GitHub
 2. Loaded it into MySQL and split skills into one skill per row (`sql/schema.sql`)
 3. Answered the 4 questions with SQL queries (`sql/analysis.sql`)
 
+## Checking the results on real data
+I compared my skills result with about 2,000 entry level analyst postings from Naukri.
+SQL ranked high in both datasets, so it is the most reliable skill finding.
+Power BI and Excel ranked higher in the main dataset than on Naukri, so those results are less certain.
+
 ## Coming next
 Machine learning model, AWS setup, and a dashboard
