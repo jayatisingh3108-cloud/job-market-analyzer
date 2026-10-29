@@ -30,10 +30,5 @@ I compared my skills result with about 2,000 entry level analyst postings from N
 SQL ranked high in both datasets, so it is the most reliable skill finding.
 Power BI and Excel ranked higher in the main dataset than on Naukri, so those results are less certain.
 
-## Checking the results on real data
-I compared my skills result with about 2,000 entry level analyst postings from Naukri.
-SQL ranked high in both datasets, so it is the most reliable skill finding.
-Power BI and Excel ranked higher in the main dataset than on Naukri, so those results are less certain.
-
 ## Coming next
 Machine learning model, AWS setup, and a dashboard
