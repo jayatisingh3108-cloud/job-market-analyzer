@@ -31,3 +31,11 @@ Python (pandas), MySQL, Streamlit, GitHub, VS Code
 I compared my skills result with about 2,000 entry level analyst postings from Naukri.
 SQL ranked high in both datasets, so it is the most reliable skill finding.
 Power BI and Excel ranked higher in the main dataset than on Naukri, so those results are less certain.
+
+## Dashboard Preview
+<img width="968" height="600" alt="2026-11-03T12-18_chart" src="https://github.com/user-attachments/assets/eda0667a-cb3a-414b-af41-75ed4ae74e67" />
+<img width="968" height="600" alt="2026-11-03T12-18_chart (1)" src="https://github.com/user-attachments/assets/e8dd2007-bb90-44e7-95db-8dfcb8747f30" />
+<img width="968" height="600" alt="2026-11-03T12-18_chart (2)" src="https://github.com/user-attachments/assets/e0c3a3ad-d1bd-4b0b-965b-10c66e4ded56" />
+
+
+
