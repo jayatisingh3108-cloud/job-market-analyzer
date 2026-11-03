@@ -23,8 +23,8 @@ h3 {color: #0F766E; margin-top: 1.5rem;}
 TEAL = "#0F766E"
 @st.cache_resource
 def load_model():
-    model = joblib.load("models/salary_model.pkl")
-    columns = joblib.load("models/model_columns.pkl")
+    model = joblib.load("model/salary_model.pkl")
+    columns = joblib.load("model/model_columns.pkl")
     return model, columns
 
 model, model_columns = load_model()
