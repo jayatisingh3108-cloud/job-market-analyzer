@@ -15,7 +15,7 @@ A project that looks at data and business analyst job postings in India, to find
 4. **Salary:** about 7 to 8 LPA on average, with a wide range (1.1 to 16.5 LPA).
 
 ## Tools used
-Python (pandas), MySQL, GitHub
+Python (pandas), MySQL, GitHub, VS Code
 
 ## Data
 `india_job_market_2024_2026.csv` has 5,000 job postings. The data looks very clean, so it may be partly synthetic. About 230 postings are entry level analyst jobs, so results are for this dataset only.
